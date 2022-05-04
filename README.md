@@ -109,6 +109,9 @@ Here is a collage of our prediciton scores for Model A & B that we created in ou
 <br><br>
 ![](pics/accuracy.jpg)
 <br><br>
+After running both Model A & B we were surprised by the results, the lack of a single fault within the decision making process for applications was unexpected given our hypothesis. At first we associated the lack of differences in the predictions with our model not performing properly presenting serious issues. In order to check if this was a possibility, we decided to create a third model, Model C, in which we dropped the variable of applicant income. The prediction scores for this model are assorted below.
+
+<br><br>
 ![](pics/modelcpic.jpeg)
 <br><br>
 
