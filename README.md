@@ -12,11 +12,12 @@ Maybe you want a different website them for the project? Consider `minimal-mista
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Methodology](#meth)
-3. [Section 2](#section2)
-    1. [Subsection](#subsec2-1)
-    2. [Subsection](#subsec2-2)
-4. [Analysis Section](#section3)
-5. [Summary](#summary)
+3. [Data](#section2)
+    1. [Dataset](#subsec2-1)
+    2. [EDA](#subsec2-2)
+4. [Our Models](#section3)
+5. [Analysis Section](#section4)
+6. [Summary](#summary)
 
 ## Introduction  <a name="introduction"></a>
 
@@ -45,16 +46,18 @@ print(iris['species'].nunique(), '\n---')
 
 Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
 
-## Section <a name="section2"></a>
+## Data <a name="section2"></a>
 Blah blah
 
-### Subsection 1 <a name="subsec2-1"></a>
+### Dataset <a name="subsec2-1"></a>
 This is a subsection, formatted in heading 3 style
 
-### Subsection 2 <a name="subsec2-2"></a>
+### EDA <a name="subsec2-2"></a>
 This is a subsection, formatted in heading 3 style
 
-## Analysis Section <a name="section3"></a>
+## Our Models <a name="section3"></a>
+
+## Analysis Section <a name="section4"></a>
 
 Here are some graphs that we created in our analysis. We saved them to the `pics/` subfolder and include them via the usual markdown syntax for pictures.
 
