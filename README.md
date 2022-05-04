@@ -4,11 +4,6 @@ This is a website to showcase our final project for FIN 377 - Data Science for F
 
 To see the complete analysis file(s) click [here](https://github.com/julioveracruz/testwebsite/blob/main/notebooks/example.ipynb).
 
-Maybe you want a different website them for the project? Consider `minimal-mistakes`:
-1. [Go here](https://github.com/mmistakes/mm-github-pages-starter/generate).
-2. In the resulting repo, click Settings, then Pages, then make sure the source is the main branch.
-3. [The doc site is here](https://mmistakes.github.io/minimal-mistakes/docs/structure/) and will help you customize layouts and figure out how to use it.
-
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Data](#section2)
@@ -86,19 +81,12 @@ Action Taken:
 
 ## Analysis Section <a name="section4"></a>
 
-Here are some graphs that we created in our analysis. We saved them to the `pics/` subfolder and include them via the usual markdown syntax for pictures.
+Here is a collage of graphs that we created in our analysis. 
 
-![](pics/plot1.png)
-<br><br>
-Some analysis here
 <br><br>
 ![](pics/accuracy.jpg)
 <br><br>
-More analysis here.
-<br><br>
-![](pics/plot3.png)
-<br><br>
-More analysis.
+
 
 ## Summary <a name="summary"></a>
 
