@@ -67,7 +67,7 @@ Races:
 <br><br>
 
 <br><br>
-<img src="pics/0846AB69-12A6-4654-9E77-B41EB0A81BC7.jpeg" width="300" height="250"/>
+<img src="pics/0846AB69-12A6-4654-9E77-B41EB0A81BC7.jpeg" width="300" height="200"/>
 <br><br>
 
 Action Taken:
