@@ -54,13 +54,37 @@ print(iris['species'].nunique(), '\n---')
 Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
 
 ## Data <a name="section2"></a>
-Blah blah
+
+
 
 ### Dataset <a name="subsec2-1"></a>
-This is a subsection, formatted in heading 3 style
+- First we downloaded the dataset to our computer.
+We then put the dataset into a folder labeled "Inputs" so that the file would be in our project repo labeled "project-owen-and-some-dudez"
+- To load the dataset into jupyter lab we ran: mortgage = pd.read_csv('Input/mortgage.csv')
+- The sample period is from 2017 (this is the most recent period on any of the state datasets on loan information from the website we decided on using: www.consumerfinance.gov)
+- We’re the Consumer Financial Protection Bureau, a U.S. government agency dedicated to making sure you are treated fairly by banks, lenders and other financial institutions.
 
 ### EDA <a name="subsec2-2"></a>
-This is a subsection, formatted in heading 3 style
+
+#### Main Observations:
+- Unit of Observation: respondent_ID
+- Time period: the year: 2017
+- Number of Observations: 473,757
+
+#### Interesting Findings from EDA:
+Outliers:
+loan_amount_000s
+applicant_income_000s
+Population
+
+Races:
+1 = Returned Nothing
+2 = Asian
+3 = Black or African American
+4 = Native Hawaiian or Other Pacific Islander
+5 = White
+6 = Information not provided by applicant in mail, Internet, or telephone application
+7 = Not applicable
 <br><br>
 <img src="pics/EDA1.jpeg" width="300"/>
 <br><br>
