@@ -108,13 +108,14 @@ Blah blah
 
 ## About the team
 
-<img src="pics/julio.jpg" alt="julio" width="300"/>
+<img src="pics/IMG_3536.JPG" alt="Sebastian, Owen, Matt" width="300"/>
 <br>
-Julio is a senior at Lehigh studying finance.
+All three members of the team are Juniors at Lehigh University studying Finance!
+Sebastian (left) is from Houston, TX. He enjoys bowling and attending concerts.
+Owen (middle) is from New Rochelle, NY. He loves sailing and puzzles!
+Matt (right) is from Manhattan, NY. He likes to play rugby and eating a good New York slice of 'Za.
 <br><br><br>
-<img src="pics/don2.jpg" alt="don" width="300"/>
-<br>
-Don is an assistant professor at Lehigh.
+
 
 
 ## More 
