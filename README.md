@@ -102,4 +102,4 @@ Don is an assistant professor at Lehigh.
 
 ## More 
 
-To view the GitHub repo for this website, click [here](https://github.com/donbowen/teamproject).
+To view the GitHub repo for this website, click [here](https://github.com/owenfitz/owen-and-some-dudez).
