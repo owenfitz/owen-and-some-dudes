@@ -99,7 +99,7 @@ Action Taken:
         - Cleaned the data frame the same way we cleaned the training data
     - Used both models to predict the action taken for each of the applications
     - Created new datasets for each model that contained the predictions
-- Model C
+- Third Model! (Model C)
     - Created a model where we only dropped applicant income to see how it would differ from A and B	
 ## Analysis Section <a name="section4"></a>
 
