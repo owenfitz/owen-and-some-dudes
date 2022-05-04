@@ -111,8 +111,11 @@ Blah blah
 <img src="pics/IMG_3536.JPG" alt="Sebastian, Owen, Matt" width="300"/>
 <br>
 All three members of the team are Juniors at Lehigh University studying Finance!
+<br>
 Sebastian (left) is from Houston, TX. He enjoys bowling and attending concerts.
+<br>
 Owen (middle) is from New Rochelle, NY. He loves sailing and puzzles!
+<br>
 Matt (right) is from Manhattan, NY. He likes to play rugby and eating a good New York slice of 'Za.
 <br><br><br>
 
