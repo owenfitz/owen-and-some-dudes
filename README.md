@@ -2,7 +2,7 @@
 
 This is a website to showcase our final project for FIN 377 - Data Science for Finance course at Lehigh University.
 
-To see the complete analysis file(s) click [here](http://localhost:8888/lab/tree/Desktop/FIN%20377/project-owen-and-some-dudez).
+To see the complete analysis file(s) click [here](notebooks).
 
 ## Table of contents
 1. [Introduction](#introduction)
