@@ -57,6 +57,8 @@ Races:
 - 5 = White
 - 6 = Information not provided by applicant in mail, Internet, or telephone application
 - 7 = Not applicable
+- For 19,563 loan applications, the information of the applicant's race was not provided
+
 <br><br>
 <img src="pics/EDA1.jpeg" width="300"/>
 <br><br>
@@ -74,7 +76,6 @@ Action Taken:
 - 6 - Loan purchased by the institution
 - 7 - Preapproval request denied by financial institution
 - 8 - Preapproval request approved but not accepted
-- For 19,563 loan applications, the information of the applicant's race was not provided
 
 
 ## Our Models <a name="section3"></a>
