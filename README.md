@@ -109,15 +109,17 @@ Here is a collage of our prediciton scores for Model A & B that we created in ou
 <br><br>
 ![](pics/accuracy.jpg)
 <br><br>
+- "Recall" is the fraction of true positives we call positive
+- "Precision" is the fraction of what we labeled positive are truly positive
+- "Accuracy" is the fraction of predictions made that are correct
+- "F-score" or "F1" is the mean of "Recall" and "Precision", giving us a view if we are detecting positives correctly
+<br><br>
 After running both Model A & B we were surprised by the results, the lack of a single fault within the decision making process for applications was unexpected given our hypothesis. At first we associated the lack of differences in the predictions with our model not performing properly presenting serious issues. In order to check if this was a possibility, we decided to create a third model, Model C, in which we dropped the variable of applicant income. The prediction scores for this model are assorted below.
 
 <br><br>
 ![](pics/modelcpic.jpeg)
 <br><br>
-- "Recall" is the fraction of true positives we call positive
-- "Precision" is the fraction of what we labeled positive are truly positive
-- "Accuracy" is the fraction of predictions made that are correct
-- "F-score" or "F1" is the mean of "Recall" and "Precision", giving us a view if we are detecting positives correctly
+
 Given that after dropping the variable the scores for precision and recall changed, we can assume that our models were working properly. Although we were searching for discrepancies in the acceptances and denials between the two models, we can conclude that demographics play little to no role in the decision making for granting loans. 
 <br><br>
 ## Summary <a name="summary"></a>
