@@ -118,8 +118,7 @@ Given that after dropping the variable the scores for precision and recall chang
 <br><br>
 ## Summary <a name="summary"></a>
 
-Blah blah
-
+At the beginning of our project, we were aware that making decisions on whether or not to give loans based on an applicants’ demographic information was illegal. We thought that by using the tools we learned in class we would be able to prove that maybe this was not the case in some instances. Although surprised we were relieved to see that financial institutions were not basing their decisions on demographic information. 
 
 
 ## About the team
