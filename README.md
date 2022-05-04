@@ -2,7 +2,7 @@
 
 This is a website to showcase our final project for FIN 377 - Data Science for Finance course at Lehigh University.
 
-To see the complete analysis file(s) click [here](https://github.com/julioveracruz/testwebsite/blob/main/notebooks/example.ipynb).
+To see the complete analysis file(s) click [here](http://localhost:8888/lab/tree/Desktop/FIN%20377/project-owen-and-some-dudez).
 
 ## Table of contents
 1. [Introduction](#introduction)
@@ -114,7 +114,8 @@ After running both Model A & B we were surprised by the results, the lack of a s
 <br><br>
 ![](pics/modelcpic.jpeg)
 <br><br>
-
+Given that after dropping the variable the scores for precision and recall changed, we can assume that our models were working properly. Although we were searching for discrepancies in the acceptances and denials between the two models, we can conclude that demographics play little to no role in the decision making for granting loans. 
+<br><br>
 ## Summary <a name="summary"></a>
 
 Blah blah
