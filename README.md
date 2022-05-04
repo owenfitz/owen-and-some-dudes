@@ -89,6 +89,10 @@ Races:
 <img src="pics/EDA1.jpeg" width="300"/>
 <br><br>
 
+<br><br>
+<img src="pics/EDA1.jpeg" width="300"/>
+<br><br>
+
 ## Our Models <a name="section3"></a>
 
 ## Analysis Section <a name="section4"></a>
