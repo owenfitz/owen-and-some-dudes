@@ -39,7 +39,7 @@ We will test this hypothesis by creating a base model that includes information 
 We then put the dataset into a folder labeled "Inputs" so that the file would be in our project repo labeled "project-owen-and-some-dudez"
 - To load the dataset into jupyter lab we ran: mortgage = pd.read_csv('Input/mortgage.csv')
 - The sample period is from 2017 (this is the most recent period on any of the state datasets on loan information from the website we decided on using: www.consumerfinance.gov)
-- We’re the Consumer Financial Protection Bureau, a U.S. government agency dedicated to making sure you are treated fairly by banks, lenders and other financial institutions.
+- "We’re the Consumer Financial Protection Bureau, a U.S. government agency dedicated to making sure you are treated fairly by banks, lenders and other financial institutions" (taken from www.consumerfinance.gov).
 
 ### EDA <a name="subsec2-2"></a>
 
@@ -55,13 +55,13 @@ applicant_income_000s
 Population
 
 Races:
-1 = Returned Nothing
-2 = Asian
-3 = Black or African American
-4 = Native Hawaiian or Other Pacific Islander
-5 = White
-6 = Information not provided by applicant in mail, Internet, or telephone application
-7 = Not applicable
+- 1 = Returned Nothing
+- 2 = Asian
+- 3 = Black or African American
+- 4 = Native Hawaiian or Other Pacific Islander
+- 5 = White
+- 6 = Information not provided by applicant in mail, Internet, or telephone application
+- 7 = Not applicable
 <br><br>
 <img src="pics/EDA1.jpeg" width="300"/>
 <br><br>
@@ -71,15 +71,15 @@ Races:
 <br><br>
 
 Action Taken:
-1 - Loan originated
-2 - Application approved but not accepted
-3 - Application denied by financial institution
-4 - Application withdrawn by applicant
-5 - File closed for incompleteness
-6 - Loan purchased by the institution
-7 - Preapproval request denied by financial institution
-8 - Preapproval request approved but not accepted
-For 19,563 loan applications, the information of the applicant's race was not provided
+- 1 - Loan originated
+- 2 - Application approved but not accepted
+- 3 - Application denied by financial institution
+- 4 - Application withdrawn by applicant
+- 5 - File closed for incompleteness
+- 6 - Loan purchased by the institution
+- 7 - Preapproval request denied by financial institution
+- 8 - Preapproval request approved but not accepted
+- For 19,563 loan applications, the information of the applicant's race was not provided
 
 
 ## Our Models <a name="section3"></a>
