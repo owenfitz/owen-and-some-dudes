@@ -108,7 +108,7 @@ Here is a collage of graphs that we created in our analysis.
 <br><br>
 ![](pics/accuracy.jpg)
 <br><br>
-![](pics/modelcpic.jpg)
+![](pics/modelcpic.jpeg)
 <br><br>
 
 ## Summary <a name="summary"></a>
