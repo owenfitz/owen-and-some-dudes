@@ -61,7 +61,7 @@ This is a subsection, formatted in heading 3 style
 
 ### EDA <a name="subsec2-2"></a>
 This is a subsection, formatted in heading 3 style
-
+![](pics/EDA1.jpeg)
 ## Our Models <a name="section3"></a>
 
 ## Analysis Section <a name="section4"></a>
