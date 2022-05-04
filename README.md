@@ -103,7 +103,7 @@ Action Taken:
     - Created a model where we only dropped applicant income to see how it would differ from A and B	
 ## Analysis Section <a name="section4"></a>
 
-Here is a collage of graphs that we created in our analysis. 
+Here is a collage of our prediciton scores for Model A & B that we created in our analysis. 
 
 <br><br>
 ![](pics/accuracy.jpg)
