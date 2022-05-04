@@ -1,4 +1,4 @@
-# Welcome to our [team project website!](https://owenfitz.github.io/owen-and-some-dudes/)
+# Welcome to our [team project website!](https://owenfitz.github.io/owen-and-some-dudez/)
 
 This is a website to showcase our final project for FIN 377 - Data Science for Finance course at Lehigh University.
 
