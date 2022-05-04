@@ -90,8 +90,20 @@ Races:
 <br><br>
 
 <br><br>
-<img src="pics/EDA1.jpeg" width="300"/>
+<img src="pics/0846AB69-12A6-4654-9E77-B41EB0A81BC7.jpeg" width="300"/>
 <br><br>
+
+Action Taken:
+1 - Loan originated
+2 - Application approved but not accepted
+3 - Application denied by financial institution
+4 - Application withdrawn by applicant
+5 - File closed for incompleteness
+6 - Loan purchased by the institution
+7 - Preapproval request denied by financial institution
+8 - Preapproval request approved but not accepted
+For 19,563 loan applications, the information of the applicant's race was not provided
+
 
 ## Our Models <a name="section3"></a>
 
