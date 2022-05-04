@@ -114,6 +114,10 @@ After running both Model A & B we were surprised by the results, the lack of a s
 <br><br>
 ![](pics/modelcpic.jpeg)
 <br><br>
+- "Recall" is the fraction of true positives we call positive
+- "Precision" is the fraction of what we labeled positive are truly positive
+- "Accuracy" is the fraction of predictions made that are correct
+- "F-score" or "F1" is the mean of "Recall" and "Precision", giving us a view if we are detecting positives correctly
 Given that after dropping the variable the scores for precision and recall changed, we can assume that our models were working properly. Although we were searching for discrepancies in the acceptances and denials between the two models, we can conclude that demographics play little to no role in the decision making for granting loans. 
 <br><br>
 ## Summary <a name="summary"></a>
