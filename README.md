@@ -78,7 +78,29 @@ Action Taken:
 
 
 ## Our Models <a name="section3"></a>
-
+- Two Models  
+    - Both are set up the same except for one key difference
+    - One model does not include any of the applicants’ demographic information (Model A) and one with all the information (Model B)
+- Used pandas to create dataframe using the training csv with all of the loan application information (10,000 applications)
+- In Model A, we dropped every column considered to be a demographic using df.drop
+    -(co)applicant ethnicity, (co)applicant race, (co)applicant sex, county, minority population, and census tract number 
+- For both models 
+    - Removed all of the columns where 95% of applicants had no variable 
+    - Removed all applications that were action taken was not application accepted or application denied
+        - We did not want to include actions like application withdrawn
+    - Made our y= application denied 
+    - Removed entire action taken column from dataframe 
+    - Created a preprocessor that included all numerical columns and purpose of loan and dropped every other categorical variable
+        - Did not need to exclude demographic numerical variables from Model A because we had already done so
+    - Created Pipeline that processes data and then runs a logistic regression on that data 
+    - Fit the model to the training data 
+    - Analyzed the accuracy of our models
+    - Imported the holdout dataset (over 400,000 applications)
+        - Cleaned the data frame the same way we cleaned the training data
+    - Used both models to predict the action taken for each of the applications
+    - Created new datasets for each model that contained the predictions
+- Model C
+    - Created a model where we only dropped applicant income to see how it would differ from A and B	
 ## Analysis Section <a name="section4"></a>
 
 Here is a collage of graphs that we created in our analysis. 
