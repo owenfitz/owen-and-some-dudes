@@ -19,7 +19,7 @@ To see the complete analysis file(s) click [here](https://github.com/owenfitz/ow
 Do demographics affect financial institutions' decision on whether or not to give a loan to a loan applicant?
 
 ### Hypothesis
-If the model including the demographic variables is more accurate (recall, precision, accuracy, f1) than the model excluding demographics, then this would mean the financial institutions in our dataset are basing their decisions on demographics which is illegal. We noticed that multiple records do not have reasons for denial which could help build the correlation between demographics and the acceptance or rejection of a loan request. We hypothesize that the loan grantors from our dataset are making decisions on granting loans differently based on the three variables they provide such as debt-to-income ratio, collateral, and credit history; by incorporating demographic information we can possibly see if there is any correlation with denial or acceptance of the loan.
+If the model including the demographic variables is more accurate (recall, precision, accuracy, f1) than the model excluding demographics, then this would mean the financial institutions in our dataset are basing their decisions on demographics which is illegal. We hypothesize that the loan grantors from our dataset are making decisions on granting loans differently based on the three variables they provide such as debt-to-income ratio, collateral, and credit history; by incorporating demographic information we can possibly see if there is any correlation with denial or acceptance of the loan. Multiple records do not have reasons for denial which could help build the correlation between demographics and the acceptance or rejection of a loan request.
 
 ### Path to Success
 We will test this hypothesis by creating a base model that includes information about the loan applicant such as loan amount, applicant income, and whether or not there is a co-applicant. We will then see how accurate the model is by comparing the results of whether or not the loan was given, which is provided by the dataset. Then we will create another model that contains the original variables and add the demographic variables in the dataset. Again, we will compare the results of our model to the actual results. After doing so, we will be able to compare the accuracy of both models to each other. Then we will be able to observe if the financial institution is making their decisions based on demographics instead of only the financial information needed to make a proper decision.
@@ -87,7 +87,7 @@ Action Taken:
     -(co)applicant ethnicity, (co)applicant race, (co)applicant sex, county, minority population, and census tract number 
 - For both models 
     - Removed all of the columns where 95% of applicants had no variable 
-    - Removed all applications that were action taken was not application accepted or application denied
+    - Removed all applications where action taken was not application accepted or application denied
         - We did not want to include actions like application withdrawn
     - Made our y= application denied 
     - Removed entire action taken column from dataframe 
