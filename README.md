@@ -11,13 +11,12 @@ Maybe you want a different website them for the project? Consider `minimal-mista
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Methodology](#meth)
-3. [Data](#section2)
+2. [Data](#section2)
     1. [Dataset](#subsec2-1)
     2. [EDA](#subsec2-2)
-4. [Our Models](#section3)
-5. [Analysis Section](#section4)
-6. [Summary](#summary)
+3. [Our Models](#section3)
+4. [Analysis Section](#section4)
+5. [Summary](#summary)
 
 ## Introduction  <a name="introduction"></a>
 
@@ -30,28 +29,6 @@ If the model including the demographic variables is more accurate (recall, preci
 ### Path to Success
 We will test this hypothesis by creating a base model that includes information about the loan applicant such as loan amount, applicant income, and whether or not there is a co-applicant. We will then see how accurate the model is by comparing the results of whether or not the loan was given, which is provided by the dataset. Then we will create another model that contains the original variables and add the demographic variables in the dataset. Again, we will compare the results of our model to the actual results. After doing so, we will be able to compare the accuracy of both models to each other. Then we will be able to observe if the financial institution is making their decisions based on demographics instead of only the financial information needed to make a proper decision.
 
-## Methodology <a name="meth"></a>
-
-Here is some code that we used to develop our analysis. Blah Blah. [More details are provided in the Appendix](page2).
- 
-Note that for the purposes of the website, you have to copy this code into the markdown file and  
-put the code inside trip backticks with the keyword `python`.
-
-```python
-import seaborn as sns 
-iris = sns.load_dataset('iris') 
-
-print(iris.head(),  '\n---')
-print(iris.tail(),  '\n---')
-print(iris.columns, '\n---')
-print("The shape is: ",iris.shape, '\n---')
-print("Info:",iris.info(), '\n---') # memory usage, name, dtype, and # of non-null obs (--> # of missing obs) per variable
-print(iris.describe(), '\n---') # summary stats, and you can customize the list!
-print(iris['species'].value_counts()[:10], '\n---')
-print(iris['species'].nunique(), '\n---')
-```
-
-Notice that the output does NOT show! **You have to copy in figures and tables from the notebooks.**
 
 ## Data <a name="section2"></a>
 
@@ -90,7 +67,7 @@ Races:
 <br><br>
 
 <br><br>
-<img src="pics/0846AB69-12A6-4654-9E77-B41EB0A81BC7.jpeg" width="300"/>
+<img src="pics/0846AB69-12A6-4654-9E77-B41EB0A81BC7.jpeg" width="300" height="300"/>
 <br><br>
 
 Action Taken:
