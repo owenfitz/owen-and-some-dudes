@@ -40,13 +40,13 @@ We then put the dataset into a folder labeled "inputs" so that the file would be
 
 #### Main Observations:
 - Unit of Observation: respondent_ID
-- Time period: the year: 2017
+- Time period: 2017
 - Number of Observations: 473,757
 
 #### Interesting Findings from EDA:
 Outliers:
-loan_amount_000s
-applicant_income_000s
+loan_amount_000s,
+applicant_income_000s,
 Population
 
 Races:
